@@ -1,9 +1,4 @@
-deb http://ftp.ru.debian.org/debian/ buster main
-deb-src http://ftp.ru.debian.org/debian/ buster main
+deb http://deb.debian.org/debian/ bullseye main contrib non-free
 
-deb http://ftp.ru.debian.org/debian/ buster-updates main
-deb-src http://ftp.ru.debian.org/debian/ buster-updates main
-
-deb http://security.debian.org/ buster/updates main
-deb-src http://security.debian.org/ buster/updates main
+deb http://deb.debian.org/debian/ bullseye-updates main contrib non-free
 
