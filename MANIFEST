@@ -1,10 +1,12 @@
-UPD: 27-03-2021 
+#debian repo
+UPD: 27-03-2021
 debian-bullseye repo
 /apt/sources.list
 
-debian programms
+#debian programms
 /programms/leafpad.deb
 /programms/nano-5.5.tar.gz
 
-UPD: 27-03-2021
+#bash-projects
+UPD: 27-03-2021:
 /bash-projects/debian/kde+programms.sh
