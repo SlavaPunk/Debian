@@ -8,3 +8,6 @@
 # debian bash-scripts
 /bash-projects/administration/install_de.sh
 /bash-projects/administration/fix_tearing.sh
+
+# themes
+/themes/paramount-gtk-remixed.tar.gz
